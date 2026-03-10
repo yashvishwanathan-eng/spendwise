@@ -184,7 +184,6 @@ Headers: Authorization: Bearer YOUR_TOKEN_HERE
 
 ---
 
-## 🔐 How Authentication Works
 
 1. User registers → password is **hashed** with bcrypt before saving
 2. User logs in → password is compared with hashed version
